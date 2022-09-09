@@ -2,15 +2,64 @@ textarea {
     width: 80%;
     height: 10vh;
     display: block;
-    margin: 1rem;
+    margin: auto;
+    margin-left: 3em;
     padding: 1rem;
     border: 1px solid rgb(14, 178, 207);
 }
 
 #output {
-    border: 1px solid rgb(14, 178, 207);
-    height: 10vh;
     width: 80%;
-    margin: 1rem;
+    height: 10vh;
+    display: block;
+    margin-left: 3em;
+    margin-bottom: 0.5em;
     padding: 1rem;
+    border: 1px solid rgb(14, 178, 207);
+}
+
+body {
+    font-style: italic;
+    margin: 0rem;
+}
+
+h1 {
+    text-align: center;
+    display: block;
+    background-color: rgb(255, 239, 16);
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    margin-block-start: 0em;
+    margin-block-end: 0.67em;
+}
+
+#btn-translate {
+    margin-top: 0.5em;
+    margin-left: 3em;
+    height: 5vh;
+    width: 22%;
+    background-color: rgb(255, 239, 16);
+    font-weight: bold;
+    border: 1px solid rgb(235, 221, 29);
+}
+
+#happy {
+    margin-left: 2.60em;
+    margin-top: 0.67em;
+    margin-bottom: 0.5em;
+}
+
+#foot {
+    text-align: center;
+    display: block;
+    background-color: rgb(255, 239, 16);
+    padding: 1rem;
+    border-top-left-radius: 1rem;
+    font-size: 1em;
+    margin-bottom: 1rem;
+    margin-block-start: 0em;
+    margin-block-end: 0.67em;
 }

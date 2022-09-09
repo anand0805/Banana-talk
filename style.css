@@ -1,0 +1,16 @@
+textarea {
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid rgb(14, 178, 207);
+}
+
+#output {
+    border: 1px solid rgb(14, 178, 207);
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+}

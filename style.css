@@ -55,9 +55,9 @@ h1 {
     font-weight: 700;
     font-size: small;
     background-color: transparent;
-    color: rgb(255, 175, 2);
+    color: rgb(26, 18, 2);
     border-radius: 7px;
-    border-color: var(--primary-lack);
+    border-color: rgb(253, 143, 0);
     /* margin: auto; */
     outline: none;
 }

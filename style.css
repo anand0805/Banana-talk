@@ -48,11 +48,18 @@ h1 {
 #btn-translate {
     margin-top: 0.5em;
     margin-left: 3em;
-    height: 5vh;
-    width: 22%;
-    background-color: rgb(255, 175, 2);
+    /* background-color: rgb(255, 175, 2); */
     font-weight: bold;
-    border: 1px solid rgb(252, 169, 15);
+    padding: 1rem 2rem;
+    width: max-content;
+    font-weight: 700;
+    font-size: small;
+    background-color: transparent;
+    color: rgb(255, 175, 2);
+    border-radius: 7px;
+    border-color: var(--primary-lack);
+    /* margin: auto; */
+    outline: none;
 }
 
 #happy {
